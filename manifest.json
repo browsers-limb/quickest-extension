@@ -1,0 +1,11 @@
+{
+	"name": "quickest-extension",
+	"version": "0.0.0",
+	"description": "Demo for Dynatrace extensions tech talk",
+	"manifest_version": 3,
+	"author": "santiloopz",
+	"action": {
+		"default_popup": "index.html",
+		"default_title": "Quickest Extension"
+	}
+}
